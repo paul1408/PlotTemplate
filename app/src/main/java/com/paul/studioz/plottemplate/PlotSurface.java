@@ -10,5 +10,9 @@ import android.view.SurfaceView;
 public class PlotSurface extends SurfaceView {
     public PlotSurface(Context context) {
         super(context);
+
+
+        int a = 23;
+        a++;
     }
 }
